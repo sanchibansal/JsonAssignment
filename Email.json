@@ -1,0 +1,36 @@
+{
+"success":1,
+"mails":[
+{"sender_name":"me",
+"Description":"This is Test Email.",
+"date":"Oct 20",
+"starred":0,
+"attachment":0,
+"subject":"Test email"
+},
+{
+"sender_name":"WordPress.com News",
+"Description":"Mark Amsterdam posted...",
+"date":"Oct 22",
+"starred":0,
+"attachment":0,
+"subject":"[New Post]..."
+},
+{
+"sender_name":"Sochet Thea",
+"Description":"Linkdin Sochet Thea...",
+"date":"Oct 20",
+"starred":0,
+"attachment":0,
+"subject":"I'd like to add to you to my profess..."
+},
+{
+"sender_name":"biggtech",
+"Description":"A new pingback on the post..",
+"date":"Oct 18",
+"starred":0,
+"attachment":0,
+"subject":"[TechFr..]Please moderate..."
+}
+]
+}
